@@ -1,0 +1,15 @@
+C:\Abhijit\Demo\BowlingBallScoring\BowlingBallScoring\bin\Debug\net6.0\BowlingBallScoring.exe
+C:\Abhijit\Demo\BowlingBallScoring\BowlingBallScoring\bin\Debug\net6.0\BowlingBallScoring.deps.json
+C:\Abhijit\Demo\BowlingBallScoring\BowlingBallScoring\bin\Debug\net6.0\BowlingBallScoring.runtimeconfig.json
+C:\Abhijit\Demo\BowlingBallScoring\BowlingBallScoring\bin\Debug\net6.0\BowlingBallScoring.dll
+C:\Abhijit\Demo\BowlingBallScoring\BowlingBallScoring\bin\Debug\net6.0\ref\BowlingBallScoring.dll
+C:\Abhijit\Demo\BowlingBallScoring\BowlingBallScoring\bin\Debug\net6.0\BowlingBallScoring.pdb
+C:\Abhijit\Demo\BowlingBallScoring\BowlingBallScoring\obj\Debug\net6.0\BowlingBallScoring.csproj.AssemblyReference.cache
+C:\Abhijit\Demo\BowlingBallScoring\BowlingBallScoring\obj\Debug\net6.0\BowlingBallScoring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Abhijit\Demo\BowlingBallScoring\BowlingBallScoring\obj\Debug\net6.0\BowlingBallScoring.AssemblyInfoInputs.cache
+C:\Abhijit\Demo\BowlingBallScoring\BowlingBallScoring\obj\Debug\net6.0\BowlingBallScoring.AssemblyInfo.cs
+C:\Abhijit\Demo\BowlingBallScoring\BowlingBallScoring\obj\Debug\net6.0\BowlingBallScoring.csproj.CoreCompileInputs.cache
+C:\Abhijit\Demo\BowlingBallScoring\BowlingBallScoring\obj\Debug\net6.0\BowlingBallScoring.dll
+C:\Abhijit\Demo\BowlingBallScoring\BowlingBallScoring\obj\Debug\net6.0\ref\BowlingBallScoring.dll
+C:\Abhijit\Demo\BowlingBallScoring\BowlingBallScoring\obj\Debug\net6.0\BowlingBallScoring.pdb
+C:\Abhijit\Demo\BowlingBallScoring\BowlingBallScoring\obj\Debug\net6.0\BowlingBallScoring.genruntimeconfig.cache
